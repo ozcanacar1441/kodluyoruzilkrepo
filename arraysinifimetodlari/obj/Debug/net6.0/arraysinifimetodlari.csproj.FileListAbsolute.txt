@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\bin\Debug\net6.0\arraysinifimetodlari.exe
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\bin\Debug\net6.0\arraysinifimetodlari.deps.json
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\bin\Debug\net6.0\arraysinifimetodlari.runtimeconfig.json
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\bin\Debug\net6.0\arraysinifimetodlari.dll
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\bin\Debug\net6.0\arraysinifimetodlari.pdb
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.dll
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\refint\arraysinifimetodlari.dll
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.pdb
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\arraysinifimetodlari.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Pratikler\arraysinifimetodlari\obj\Debug\net6.0\ref\arraysinifimetodlari.dll
