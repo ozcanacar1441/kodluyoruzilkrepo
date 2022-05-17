@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\bin\Debug\net6.0\whiledongusu.exe
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\bin\Debug\net6.0\whiledongusu.deps.json
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\bin\Debug\net6.0\whiledongusu.runtimeconfig.json
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\bin\Debug\net6.0\whiledongusu.dll
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\bin\Debug\net6.0\whiledongusu.pdb
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.dll
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\refint\whiledongusu.dll
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.pdb
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\whiledongusu.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Pratikler\whiledongusu\obj\Debug\net6.0\ref\whiledongusu.dll
