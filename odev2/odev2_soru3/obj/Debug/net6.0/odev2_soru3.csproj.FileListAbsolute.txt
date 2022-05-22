@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\bin\Debug\net6.0\odev2_soru3.exe
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\bin\Debug\net6.0\odev2_soru3.deps.json
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\bin\Debug\net6.0\odev2_soru3.runtimeconfig.json
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\bin\Debug\net6.0\odev2_soru3.dll
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\bin\Debug\net6.0\odev2_soru3.pdb
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.dll
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\refint\odev2_soru3.dll
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.pdb
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\odev2_soru3.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Pratikler\odev2\odev2_soru3\obj\Debug\net6.0\ref\odev2_soru3.dll
