@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\bin\Debug\net6.0\sinif_kavrami2.exe
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\bin\Debug\net6.0\sinif_kavrami2.deps.json
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\bin\Debug\net6.0\sinif_kavrami2.runtimeconfig.json
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\bin\Debug\net6.0\sinif_kavrami2.dll
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\bin\Debug\net6.0\sinif_kavrami2.pdb
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.dll
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\refint\sinif_kavrami2.dll
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.pdb
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\sinif_kavrami2.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Pratikler\sinif_kavrami2\obj\Debug\net6.0\ref\sinif_kavrami2.dll
