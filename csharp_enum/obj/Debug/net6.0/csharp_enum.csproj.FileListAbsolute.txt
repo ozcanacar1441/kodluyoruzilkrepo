@@ -1,0 +1,15 @@
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\bin\Debug\net6.0\csharp_enum.exe
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\bin\Debug\net6.0\csharp_enum.deps.json
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\bin\Debug\net6.0\csharp_enum.runtimeconfig.json
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\bin\Debug\net6.0\csharp_enum.dll
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\bin\Debug\net6.0\csharp_enum.pdb
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.dll
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\refint\csharp_enum.dll
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.pdb
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\csharp_enum.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Pratikler\csharp_enum\obj\Debug\net6.0\ref\csharp_enum.dll
